@@ -1,6 +1,6 @@
 import random
 
-num=50
+num=int(input("type the number"))
 zero=0
 one=0
 rate_zero=0
